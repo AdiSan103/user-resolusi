@@ -6,5 +6,11 @@ RENCANA KONTEN USER
      -  React
 - Php Frameworks
      - Laravel
+    - VUe
+    - React
+  - Fundamental Data Structur
+- Php Frameworks
+    -Laravel
 - Interview
 - Vlogs
+- Python
