@@ -3,6 +3,7 @@ RENCANA KONTEN USER
   - ES6
   - Framework Javascript
     - VUe
+    - React
   - Fundamental Data Structur
 - Php Frameworks
     -Laravel
