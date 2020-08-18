@@ -2,6 +2,7 @@ RENCANA KONTEN USER
 - Javascript
   - ES6
   - Framework Javascript
+ - Fundamental Data Structur
 - Php Frameworks
 - Interview
 - Vlogs
